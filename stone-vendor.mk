@@ -760,7 +760,6 @@ PRODUCT_PACKAGES += \
     camera.qcom \
     com.dsi.ant@1.0-impl \
     com.qti.chi.override \
-    consumerir.holi \
     fingerprint.fpc.default \
     fingerprint.goodix.default \
     vendor.qti.gnss@4.0-impl \
